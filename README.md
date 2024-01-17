@@ -2,5 +2,5 @@
 🌍 = 🇪🇬<br>
 🛠 = Web Development Course 80% <br>
 ❤️ = Problem-Solving <br>
-🧑‍💻 = HTML/CSS/JS/PYTHON
-<H2>CURRENT STATUS: Working</H2><hr>
+🧑‍💻 = HTML/CSS/JS/FLASK
+<H2>STATUS: PRACTICING REACT </H2><hr>
