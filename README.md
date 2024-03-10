@@ -6,4 +6,3 @@
 <li>✍️ = HTML/CSS/JS/FLASK/REACT/BOOTSTRAP (NODEJS SOON)</li>
 </ul>
 
-<H2>STATUS:  </H2><hr>
