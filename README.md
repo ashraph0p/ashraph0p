@@ -1,9 +1,9 @@
 <h1>print("Hello World!")</h1><br>
 <ul>
-<li>🧑‍💻 = Python & Web Developer</li>
-<li>🌍 = 🇪🇬 </li>
+<li>👋 = Hello there, I'm M.A</li>
 <li>❓ = A coder, knowledge-seeker and a somebody.</li>
-<li>❤️ = Problem-Solving</li>
+<li>🌍 = 🇪🇬 </li>
+<li>❤️ = Problem-Solving, Music, Games & Learning</li>
 <li>✍️ = HTML/CSS/JS/FLASK/REACT/BOOTSTRAP (NODEJS SOON)</li>
 </ul>
 
