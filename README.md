@@ -1,8 +1,8 @@
-<h1>Hello there!</h1>
+<h1>print("Hello World!")</h1>
 <ul>
-<li>❓ = A coder, knowledge-seeker and a somebody.</li>
+<li>❓ = I'm a coder, knowledge-seeker and someone.</li>
 <li>🌍 = 🇪🇬 </li>
-<li>❤️ = Problem-Solving, Music, Games & Learning</li>
+<li>❤️ = I love problem-Solving, music, games & learning</li>
 <li>✍️ = HTML/CSS/JS/FLASK/REACT/BOOTSTRAP (NODEJS SOON)</li>
 </ul>
 
