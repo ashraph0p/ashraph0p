@@ -1,6 +1,5 @@
 ## print("Hello World!")
 - ❓ = A coder, knowledge-seeker and someone.
-- 🌍 = 🇪🇬
 - ❤️ = I love problem-solving, music, games & learning.
 ### Technologies and tools I am working with or learning to use:
 
